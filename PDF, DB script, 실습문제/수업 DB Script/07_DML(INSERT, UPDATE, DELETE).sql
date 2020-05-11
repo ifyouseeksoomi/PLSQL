@@ -1,0 +1,3 @@
+-- 미쳤다 진도...
+
+-- DML (DATA MANIPULATION LANGUAGE)
